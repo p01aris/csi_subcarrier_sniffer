@@ -1,0 +1,320 @@
+LTE:Change
+New Game
+['WIFI1', 'LASI0']
+start thread init
+
+WIFI1 transmit:153
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1']
+start thread init
+
+WIFI1 transmit:138
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2']
+start thread init
+
+WIFI1 transmit:115
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3']
+start thread init
+
+WIFI1 transmit:116
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3', 'LASI4']
+start thread init
+
+WIFI1 transmit:85
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+LASI4 transmit:160
+LASI4 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3', 'LASI4', 'LASI5']
+start thread init
+
+WIFI1 transmit:70
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+LASI4 transmit:160
+LASI4 conflic:0
+LASI5 transmit:160
+LASI5 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3', 'LASI4', 'LASI5', 'LASI6']
+start thread init
+
+WIFI1 transmit:55
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+LASI4 transmit:160
+LASI4 conflic:0
+LASI5 transmit:160
+LASI5 conflic:0
+LASI6 transmit:160
+LASI6 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3', 'LASI4', 'LASI5', 'LASI6', 'LASI7']
+start thread init
+
+WIFI1 transmit:64
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+LASI4 transmit:160
+LASI4 conflic:0
+LASI5 transmit:160
+LASI5 conflic:0
+LASI6 transmit:160
+LASI6 conflic:0
+LASI7 transmit:160
+LASI7 conflic:0
+New Game
+['WIFI1', 'LASI0', 'LASI1', 'LASI2', 'LASI3', 'LASI4', 'LASI5', 'LASI6', 'LASI7', 'LASI8']
+start thread init
+
+WIFI1 transmit:25
+WIFI1 conflic:0
+LASI0 transmit:160
+LASI0 conflic:0
+LASI1 transmit:160
+LASI1 conflic:0
+LASI2 transmit:160
+LASI2 conflic:0
+LASI3 transmit:160
+LASI3 conflic:0
+LASI4 transmit:160
+LASI4 conflic:0
+LASI5 transmit:160
+LASI5 conflic:0
+LASI6 transmit:160
+LASI6 conflic:0
+LASI7 transmit:160
+LASI7 conflic:0
+LASI8 transmit:160
+LASI8 conflic:0
+WIFI:Change
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:154
+WIFI1 conflic:0
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:152
+WIFI1 conflic:0
+WIFI2 transmit:160
+WIFI2 conflic:3
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:144
+WIFI1 conflic:0
+WIFI2 transmit:160
+WIFI2 conflic:3
+WIFI3 transmit:150
+WIFI3 conflic:5
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:140
+WIFI1 conflic:4
+WIFI2 transmit:147
+WIFI2 conflic:5
+WIFI3 transmit:146
+WIFI3 conflic:9
+WIFI4 transmit:149
+WIFI4 conflic:7
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:147
+WIFI1 conflic:7
+WIFI2 transmit:138
+WIFI2 conflic:10
+WIFI3 transmit:139
+WIFI3 conflic:10
+WIFI4 transmit:122
+WIFI4 conflic:17
+WIFI5 transmit:137
+WIFI5 conflic:15
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:148
+WIFI1 conflic:5
+WIFI2 transmit:140
+WIFI2 conflic:13
+WIFI3 transmit:134
+WIFI3 conflic:10
+WIFI4 transmit:144
+WIFI4 conflic:9
+WIFI5 transmit:137
+WIFI5 conflic:14
+WIFI6 transmit:149
+WIFI6 conflic:9
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:147
+WIFI1 conflic:5
+WIFI2 transmit:149
+WIFI2 conflic:9
+WIFI3 transmit:125
+WIFI3 conflic:19
+WIFI4 transmit:138
+WIFI4 conflic:14
+WIFI5 transmit:139
+WIFI5 conflic:10
+WIFI6 transmit:138
+WIFI6 conflic:13
+WIFI7 transmit:127
+WIFI7 conflic:19
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:138
+WIFI1 conflic:14
+WIFI2 transmit:149
+WIFI2 conflic:9
+WIFI3 transmit:127
+WIFI3 conflic:16
+WIFI4 transmit:95
+WIFI4 conflic:36
+WIFI5 transmit:148
+WIFI5 conflic:9
+WIFI6 transmit:136
+WIFI6 conflic:13
+WIFI7 transmit:98
+WIFI7 conflic:34
+WIFI8 transmit:107
+WIFI8 conflic:28
+DUTY_CYCLE:Change
+intercal:0
+start thread init
+
+LASI1 transmit:190
+LASI1 conflic:0
+WIFI1 transmit:114
+WIFI1 conflic:1304
+WIFI2 transmit:190
+WIFI2 conflic:55165
+WIFI3 transmit:190
+WIFI3 conflic:4394
+WIFI4 transmit:190
+WIFI4 conflic:17205
+intercal:0.1
+start thread init
+
+LASI1 transmit:160
+LASI1 conflic:0
+WIFI1 transmit:146
+WIFI1 conflic:8
+WIFI2 transmit:118
+WIFI2 conflic:5
+WIFI3 transmit:124
+WIFI3 conflic:10
+WIFI4 transmit:138
+WIFI4 conflic:5
+intercal:0.2
+start thread init
+
+LASI1 transmit:140
+LASI1 conflic:0
+WIFI1 transmit:82
+WIFI1 conflic:10
+WIFI2 transmit:96
+WIFI2 conflic:8
+WIFI3 transmit:106
+WIFI3 conflic:9
+WIFI4 transmit:116
+WIFI4 conflic:6
+intercal:0.30000000000000004
+start thread init
+
+LASI1 transmit:120
+LASI1 conflic:0
+WIFI1 transmit:88
+WIFI1 conflic:1
+WIFI2 transmit:120
+WIFI2 conflic:2
+WIFI3 transmit:106
+WIFI3 conflic:3
+WIFI4 transmit:98
+WIFI4 conflic:4
+intercal:0.4
+start thread init
+
+LASI1 transmit:110
+LASI1 conflic:0
+WIFI1 transmit:82
+WIFI1 conflic:5
+WIFI2 transmit:62
+WIFI2 conflic:10
+WIFI3 transmit:72
+WIFI3 conflic:6
+WIFI4 transmit:50
+WIFI4 conflic:8

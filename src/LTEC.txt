@@ -1,0 +1,408 @@
+LTE:Change
+New Game
+start thread init
+
+WIFI1 transmit:90
+WIFI1 conflic:44
+LAA1 transmit:90
+LAA1 conflic:40
+New Game
+start thread init
+
+WIFI1 transmit:70
+WIFI1 conflic:57
+LAA1 transmit:50
+LAA1 conflic:67
+LAA2 transmit:70
+LAA2 conflic:53
+New Game
+start thread init
+
+WIFI1 transmit:90
+WIFI1 conflic:45
+LAA1 transmit:110
+LAA1 conflic:27
+LAA2 transmit:80
+LAA2 conflic:42
+LAA3 transmit:70
+LAA3 conflic:49
+New Game
+start thread init
+
+WIFI1 transmit:110
+WIFI1 conflic:30
+LAA1 transmit:110
+LAA1 conflic:25
+LAA2 transmit:110
+LAA2 conflic:26
+LAA3 transmit:110
+LAA3 conflic:28
+LAA4 transmit:100
+LAA4 conflic:34
+New Game
+start thread init
+
+WIFI1 transmit:80
+WIFI1 conflic:51
+LAA1 transmit:80
+LAA1 conflic:42
+LAA2 transmit:100
+LAA2 conflic:34
+LAA3 transmit:100
+LAA3 conflic:34
+LAA4 transmit:90
+LAA4 conflic:41
+LAA5 transmit:80
+LAA5 conflic:42
+New Game
+start thread init
+
+WIFI1 transmit:60
+WIFI1 conflic:63
+LAA1 transmit:60
+LAA1 conflic:60
+LAA2 transmit:70
+LAA2 conflic:53
+LAA3 transmit:60
+LAA3 conflic:56
+LAA4 transmit:80
+LAA4 conflic:47
+LAA5 transmit:50
+LAA5 conflic:62
+LAA6 transmit:70
+LAA6 conflic:53
+New Game
+start thread init
+
+WIFI1 transmit:60
+WIFI1 conflic:58
+LAA1 transmit:80
+LAA1 conflic:49
+LAA2 transmit:100
+LAA2 conflic:34
+LAA3 transmit:70
+LAA3 conflic:54
+LAA4 transmit:70
+LAA4 conflic:54
+LAA5 transmit:70
+LAA5 conflic:53
+LAA6 transmit:50
+LAA6 conflic:62
+LAA7 transmit:50
+LAA7 conflic:66
+New Game
+start thread init
+
+WIFI1 transmit:60
+WIFI1 conflic:59
+LAA1 transmit:60
+LAA1 conflic:60
+LAA2 transmit:50
+LAA2 conflic:67
+LAA3 transmit:40
+LAA3 conflic:73
+LAA4 transmit:70
+LAA4 conflic:52
+LAA5 transmit:70
+LAA5 conflic:53
+LAA6 transmit:80
+LAA6 conflic:49
+LAA7 transmit:60
+LAA7 conflic:60
+LAA8 transmit:70
+LAA8 conflic:53
+New Game
+start thread init
+
+WIFI1 transmit:40
+WIFI1 conflic:75
+LAA1 transmit:40
+LAA1 conflic:73
+LAA2 transmit:70
+LAA2 conflic:52
+LAA3 transmit:50
+LAA3 conflic:68
+LAA4 transmit:40
+LAA4 conflic:73
+LAA5 transmit:70
+LAA5 conflic:49
+LAA6 transmit:50
+LAA6 conflic:68
+LAA7 transmit:70
+LAA7 conflic:54
+LAA8 transmit:60
+LAA8 conflic:58
+LAA9 transmit:60
+LAA9 conflic:61
+New Game
+start thread init
+
+WIFI1 transmit:70
+WIFI1 conflic:54
+LAA1 transmit:60
+LAA1 conflic:60
+LAA2 transmit:60
+LAA2 conflic:58
+LAA3 transmit:90
+LAA3 conflic:43
+LAA4 transmit:50
+LAA4 conflic:65
+LAA5 transmit:60
+LAA5 conflic:60
+LAA6 transmit:70
+LAA6 conflic:54
+LAA7 transmit:80
+LAA7 conflic:43
+LAA8 transmit:70
+LAA8 conflic:53
+LAA9 transmit:50
+LAA9 conflic:65
+LAA10 transmit:70
+LAA10 conflic:54
+WIFI:Change
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:150
+WIFI1 conflic:5
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:160
+WIFI1 conflic:1
+WIFI2 transmit:150
+WIFI2 conflic:5
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:160
+WIFI1 conflic:1
+WIFI2 transmit:160
+WIFI2 conflic:3
+WIFI3 transmit:150
+WIFI3 conflic:5
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:150
+WIFI1 conflic:5
+WIFI2 transmit:150
+WIFI2 conflic:8
+WIFI3 transmit:150
+WIFI3 conflic:10
+WIFI4 transmit:150
+WIFI4 conflic:9
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:140
+WIFI1 conflic:11
+WIFI2 transmit:130
+WIFI2 conflic:22
+WIFI3 transmit:130
+WIFI3 conflic:18
+WIFI4 transmit:140
+WIFI4 conflic:16
+WIFI5 transmit:140
+WIFI5 conflic:14
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:150
+WIFI1 conflic:5
+WIFI2 transmit:140
+WIFI2 conflic:16
+WIFI3 transmit:120
+WIFI3 conflic:26
+WIFI4 transmit:140
+WIFI4 conflic:15
+WIFI5 transmit:120
+WIFI5 conflic:27
+WIFI6 transmit:120
+WIFI6 conflic:25
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:140
+WIFI1 conflic:15
+WIFI2 transmit:150
+WIFI2 conflic:5
+WIFI3 transmit:140
+WIFI3 conflic:12
+WIFI4 transmit:150
+WIFI4 conflic:9
+WIFI5 transmit:100
+WIFI5 conflic:35
+WIFI6 transmit:150
+WIFI6 conflic:10
+WIFI7 transmit:120
+WIFI7 conflic:26
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:120
+WIFI1 conflic:24
+WIFI2 transmit:140
+WIFI2 conflic:10
+WIFI3 transmit:130
+WIFI3 conflic:20
+WIFI4 transmit:140
+WIFI4 conflic:11
+WIFI5 transmit:130
+WIFI5 conflic:19
+WIFI6 transmit:150
+WIFI6 conflic:9
+WIFI7 transmit:80
+WIFI7 conflic:47
+WIFI8 transmit:120
+WIFI8 conflic:27
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:140
+WIFI1 conflic:14
+WIFI2 transmit:140
+WIFI2 conflic:15
+WIFI3 transmit:140
+WIFI3 conflic:11
+WIFI4 transmit:130
+WIFI4 conflic:19
+WIFI5 transmit:130
+WIFI5 conflic:16
+WIFI6 transmit:90
+WIFI6 conflic:45
+WIFI7 transmit:110
+WIFI7 conflic:33
+WIFI8 transmit:110
+WIFI8 conflic:29
+WIFI9 transmit:100
+WIFI9 conflic:39
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+WIFI1 transmit:80
+WIFI1 conflic:49
+WIFI2 transmit:140
+WIFI2 conflic:10
+WIFI3 transmit:100
+WIFI3 conflic:34
+WIFI4 transmit:100
+WIFI4 conflic:36
+WIFI5 transmit:130
+WIFI5 conflic:21
+WIFI6 transmit:140
+WIFI6 conflic:15
+WIFI7 transmit:140
+WIFI7 conflic:11
+WIFI8 transmit:90
+WIFI8 conflic:41
+WIFI9 transmit:110
+WIFI9 conflic:32
+WIFI10 transmit:110
+WIFI10 conflic:33
+DUTY_CYCLE:Change
+intercal:0
+start thread init
+
+LTE1 transmit:190
+LTE1 conflic:0
+LTE2 transmit:190
+LTE2 conflic:0
+LTE3 transmit:190
+LTE3 conflic:0
+LTE4 transmit:190
+LTE4 conflic:0
+WIFI1 transmit:190
+WIFI1 conflic:58
+WIFI2 transmit:190
+WIFI2 conflic:53689
+WIFI3 transmit:190
+WIFI3 conflic:7243
+WIFI4 transmit:190
+WIFI4 conflic:1494
+intercal:0.1
+start thread init
+
+LTE1 transmit:160
+LTE1 conflic:0
+LTE2 transmit:160
+LTE2 conflic:0
+LTE3 transmit:160
+LTE3 conflic:0
+LTE4 transmit:160
+LTE4 conflic:0
+WIFI1 transmit:160
+WIFI1 conflic:1
+WIFI2 transmit:160
+WIFI2 conflic:3
+WIFI3 transmit:150
+WIFI3 conflic:5
+WIFI4 transmit:160
+WIFI4 conflic:4
+intercal:0.2
+start thread init
+
+LTE1 transmit:140
+LTE1 conflic:0
+LTE2 transmit:140
+LTE2 conflic:0
+LTE3 transmit:140
+LTE3 conflic:0
+LTE4 transmit:140
+LTE4 conflic:0
+WIFI1 transmit:90
+WIFI1 conflic:17
+WIFI2 transmit:100
+WIFI2 conflic:13
+WIFI3 transmit:110
+WIFI3 conflic:11
+WIFI4 transmit:90
+WIFI4 conflic:19
+intercal:0.30000000000000004
+start thread init
+
+LTE1 transmit:120
+LTE1 conflic:0
+LTE2 transmit:120
+LTE2 conflic:0
+LTE3 transmit:120
+LTE3 conflic:0
+LTE4 transmit:120
+LTE4 conflic:0
+WIFI1 transmit:80
+WIFI1 conflic:12
+WIFI2 transmit:90
+WIFI2 conflic:10
+WIFI3 transmit:70
+WIFI3 conflic:14
+WIFI4 transmit:80
+WIFI4 conflic:12
+intercal:0.4
+start thread init
+
+LTE1 transmit:110
+LTE1 conflic:0
+LTE2 transmit:110
+LTE2 conflic:0
+LTE3 transmit:110
+LTE3 conflic:0
+LTE4 transmit:110
+LTE4 conflic:0
+WIFI1 transmit:50
+WIFI1 conflic:13
+WIFI2 transmit:70
+WIFI2 conflic:10
+WIFI3 transmit:70
+WIFI3 conflic:8
+WIFI4 transmit:40
+WIFI4 conflic:16
